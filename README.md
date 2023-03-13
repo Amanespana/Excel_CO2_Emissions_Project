@@ -31,7 +31,7 @@ To achieve the project objective, I analyzed a comprehensive subset of dataset o
 5. Storytelling using Dashboard
 - Finally bring everything together on a single interface to tell the story.
 
-![Dashboard]()
+![Dashboard](dashboard.png)
 
 
 
