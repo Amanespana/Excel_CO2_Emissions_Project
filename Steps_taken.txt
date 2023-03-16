@@ -1,0 +1,38 @@
+1. Downloaded Data for CO2 emissions by Country from 1960 to 2019 from kaggle
+ - source: https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country
+-source2: https://www.kaggle.com/datasets/thedevastator/global-fossil-co2-emissions-by-country-2002-2022
+
+Other data may be needed:
+- temp change by country from 1960 to 2019
+- research for other factors affected due to CO2 emissions
+
+2. Open csv file in Excel. Save as xlsx
+3. Format Data as table, use Blue, Table style Light 9
+4. Changed data type for CO2_emmissions_kt from General to Number
+5. checked duplicates, none found. NO missing values, no errors
+6. Created a pivot table for GLobal CO2 emissions from 1970 to 2019
+ - Added calulated field to convert million ton to billion ton
+- Inserted a line chart from the pivot table to see the global trend  from 1970 to 2019
+7. Create dnew pivot table for %Annual Change
+ - Added color labels for negative values of %Annual change from previous. Color selected was red
+- Added a column chart displaying %Annual change from 1970 to 2019. Added potential reasons of decline in c02 emissions in various years
+8. Created a card type visual to display total Co2 emission globally in Billion tons in 2021
+9. Created a donut chart showing breakdown in %age of c02 emissions from fuel and other sectors.
+10. Created a TOP 5 countries table with max CO2 Emissions
+
+Here's a refined version of your summary:
+
+1. Begin by opening the csv file in Excel and saving it as xlsx for compatibility purposes.
+2. Format the data as a table and choose the Blue color with the Table Style Light 9 option.
+3. Change the data type for CO2_emmissions_kt from General to Number to ensure accurate calculations.
+4. Check for duplicates, missing values, and errors to ensure data accuracy.
+5. Create a pivot table for global CO2 emissions from 1970 to 2019, including a calculated field to convert million tons to billion tons. Insert a line chart to visualize the global trend from 1970 to 2019.
+6. Create a new pivot table for %Annual Change and add color labels for negative values of %Annual change from previous. Select red as the color. Add a column chart to display %Annual change from 1970 to 2019, including potential reasons for the decline in CO2 emissions in various years.
+7. Create a card-type visual to display total CO2 emissions globally in billion tons for 2021.
+8. Create a donut chart to show the breakdown in percentage of CO2 emissions from fuel and other sectors.
+9. Create a TOP 5 countries table with the maximum CO2 emissions.
+10. Review the project to ensure accuracy, clarity, and completeness.
+
+
+Steps to take:
+
